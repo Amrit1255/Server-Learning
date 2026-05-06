@@ -1,4 +1,3 @@
-````markdown id="0jv3kq"
 # 📖 Module 1 — Introduction to Databases & MySQL
 
 > ## 🚀 Foundation of Modern Data Systems
@@ -506,4 +505,3 @@ Used to establish relationships between tables.
 
 🚀 Next Module:
 # ⚙️ MySQL Installation & Environment Setup
-````
