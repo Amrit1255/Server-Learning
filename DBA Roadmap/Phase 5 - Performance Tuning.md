@@ -1,4 +1,4 @@
-# 📘 Database Performance Tuning – Complete Notes (Highly Asked 🔥)
+# 📘 Database Performance Tuning – Complete Notes
 
 ---
 
