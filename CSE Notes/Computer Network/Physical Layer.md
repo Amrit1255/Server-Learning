@@ -1,4 +1,3 @@
-````md
 # 📘 PHYSICAL LAYER (LAYER 1)
 
 ---
@@ -786,4 +785,3 @@ Topics Covered:
 - Switching
 
 ---
-````
